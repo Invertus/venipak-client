@@ -1,5 +1,5 @@
 {
-    "name": "invertus/venipak-api-client",
+    "name": "invertus/venipak-client",
     "description": "Invertus Venipak api client",
     "type": "api-client",
     "license": "MIT",
