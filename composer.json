@@ -3,7 +3,7 @@
     "description": "Invertus Venipak api client",
     "type": "api-client",
     "license": "MIT",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Invertus\\VenipakApiClient\\": "src"
